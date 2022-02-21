@@ -32,7 +32,6 @@ Academic Integrity Statement:
 
 """Write new functions below this line (starting with unit 4)."""
 
-
 def main():
     # Defines the number of vineyards possible
     V = 0
