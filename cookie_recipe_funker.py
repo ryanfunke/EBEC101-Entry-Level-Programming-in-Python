@@ -29,9 +29,7 @@ Academic Integrity Statement:
 
 """Import additional modules below this line (starting with unit 6)."""
 
-
 """Write new functions below this line (starting with unit 4)."""
-
 
 def main():
     """Write your mainline logic below this line (then delete this line)."""
